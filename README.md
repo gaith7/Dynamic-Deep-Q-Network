@@ -39,6 +39,32 @@ pip install -r requirements.txt
 
 
 ## Installation
+### 1. Clone the Repository
+```sh
+git clone https://github.com/gaith7/Dynamic-Deep-Q-Network.git
+cd Dynamic-Deep-Q-Network
+```
 
-git clone https://github.com/yourusername/dynamic-dqn-iot-scheduler.git
-cd dynamic-dqn-iot-scheduler
+### 2. Install Dependencies:
+```sh
+pip install -r requirements.txt
+```
+
+### 3. Data Setup:
+
+###### The CIFAR-10 dataset is used for simulation. The dataset will be automatically downloaded by TensorFlow when you run the training script.
+
+
+## How to Run the Project
+###### To start training the DQN-based scheduler, use the command:
+```sh
+python dqn_scheduler_training.py
+```
+
+
+
+
+
+
+
+
