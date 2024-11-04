@@ -34,3 +34,11 @@ You can install the required packages using `pip`:
 
 ```sh
 pip install -r requirements.txt
+
+```
+
+
+## Installation
+
+git clone https://github.com/yourusername/dynamic-dqn-iot-scheduler.git
+cd dynamic-dqn-iot-scheduler
